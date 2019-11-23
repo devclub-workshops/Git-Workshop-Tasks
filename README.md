@@ -1,6 +1,6 @@
 # Git Workshop Tasks
 
-If you're new to git, want to practice your skills and git good, you've come to the right place! You can do the following listed task and you should be good to go. Incase you're stuck you can refer to our guide on [Git and GitHub](https://devclubtcsc.github.io/workshops/2019/11/23/hello-world.html) or ask for help on our Discord server.
+If you're new to git, want to practice your skills and git good, you've come to the right place! You can do the following listed task and you should be good to go. Incase you're stuck you can refer to our guide on [Git and GitHub](https://devclubtcsc.github.io/workshops/2019/11/23/git-workshop.html) or ask for help on our Discord server.
 
 ---
 ## Task #1 (Setting up git)
